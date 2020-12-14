@@ -1,0 +1,15 @@
+section{
+    background-color: #FBD062;
+    height: 700px;
+    width: 100%;
+    position: relative;
+}
+section::before{
+    height: 700px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    content: " ";
+    position: absolute;
+    clip-path: polygon(100% 50%,0 100%,100% 100%);
+}
