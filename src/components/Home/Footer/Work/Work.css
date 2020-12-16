@@ -13,4 +13,10 @@
     width: 40%;
     align-items: center;
     margin: auto;
+    /* top                   : '50%';
+    left                  : '50%';
+    right                 : 'auto';
+    bottom                : 'auto'; */
+    /* margin-right           : '-50%';
+    transform             : 'translate(-50%, -50%)' */
 } 
